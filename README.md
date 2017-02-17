@@ -6,7 +6,7 @@ React router (https://github.com/ReactTraining/react-router)
 
 After pull:
 
-run: npm install
+run: npm install create-react-app
 to install all the required dependencies. 
 
 run: npm start
